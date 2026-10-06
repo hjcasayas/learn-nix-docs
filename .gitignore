@@ -7,3 +7,7 @@ result-*
 
 # Ignore NixOS interactive test driver history
 **/.nixos-test-history
+
+# Lesson project artifacts
+node_modules/
+**/target/
